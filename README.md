@@ -8,7 +8,7 @@ StatusUI is a swift package for SwiftUI that allows you to change your statusBar
 ```
 
 
-
+## For dark StatusBar
 <img width="1323" alt="Screen Shot 2021-06-17 at 8 28 58 PM" src="https://user-images.githubusercontent.com/34104180/122446413-5063b100-cfab-11eb-8a79-f896c7738281.png">
 
 
@@ -43,7 +43,7 @@ struct ContentView_Previews: PreviewProvider {
 
 ```
 
-
+## For light StatusBar
 
 <img width="1303" alt="Screen Shot 2021-06-17 at 8 28 28 PM" src="https://user-images.githubusercontent.com/34104180/122446432-53f73800-cfab-11eb-81d9-aa1137b675a6.png">
 
