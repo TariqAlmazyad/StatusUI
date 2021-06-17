@@ -14,7 +14,7 @@ extension UIApplication {
     static var statusBarStyleHierarchy: [UIStatusBarStyle] = []
     static var statusBarStyle: UIStatusBarStyle = .darkContent
     
-    ///Sets the App to start at rootView
+    ///Sets the App to start at mainView
     func setHostingController(rootView: AnyView) {
         let hostingController = HostingController(rootView: AnyView(rootView))
         windows.first?.rootViewController = hostingController
